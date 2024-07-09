@@ -6,4 +6,8 @@
 ### This is the sample code that they want to try it out
 - https://github.com/efabless/caravel_board/tree/main/firmware/chipignite/blink
 
-
+## Video
+### GPIO characterization
+https://www.youtube.com/watch?v=pHuYTyXPzLo
+### Efabless Caravel ASIC harness interrupt tutorial with the picorv32 RISCV CPU.
+https://www.youtube.com/watch?v=pPgnVBguNW8
