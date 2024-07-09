@@ -24,15 +24,26 @@
 
 ## Types of Testing Boards
 ### Microcontroller Boards:
-- **Arduino (Uno, Mega)**: [https://www.arduino.cc/](https://www.arduino.cc/)
-- **ESP32/ESP8266 (Espressif Systems)**: [https://www.espressif.com/](https://www.espressif.com/)
-- **Raspberry Pi (4 Model B, Zero)**: [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
+- **Arduino (Uno, Mega)**:
+  - Official Website: [https://www.arduino.cc/](https://www.arduino.cc/)
+  - Youtube Learning: [https://www.youtube.com/@Arduino](https://www.youtube.com/@Arduino)
+- **ESP32/ESP8266 (Espressif Systems)**:
+  - Official Website: [https://www.espressif.com/](https://www.espressif.com/)
+  - Youtube Learning: [https://www.youtube.com/@EspressifSystems](https://www.youtube.com/@EspressifSystems)
 
 ### FPGA Boards:
-- **Altera (now Intel) (Cyclone, Stratix)**: [https://www.intel.com/content/www/us/en/products/programmable.html](https://www.intel.com/content/www/us/en/products/programmable.html)
-- **Xilinx (Spartan, Virtex)**: [https://www.xilinx.com/](https://www.xilinx.com/)
+- **Altera (now Intel) (Cyclone, Stratix)**:
+  - Official Website: [https://www.intel.com/content/www/us/en/products/programmable.html](https://www.intel.com/content/www/us/en/products/programmable.html)
+  - Youtube Learning: [https://www.youtube.com/@AlteraFPGA_](https://www.youtube.com/@AlteraFPGA_)
+- **Xilinx (Spartan, Virtex)**:
+  - Official Website: [https://www.xilinx.com/](https://www.xilinx.com/)
+  - Youtube Learning: [https://www.youtube.com/@XilinxInc](https://www.youtube.com/@XilinxInc)
 
 ### Single Board Computers (SBC):
-- **BeagleBone (Black, Green)**: [https://beagleboard.org/](https://beagleboard.org/)
-- **Raspberry Pi (4 Model B, Zero)**: [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
+- **BeagleBone (Black, Green)**:
+  - Official Website: [https://beagleboard.org/](https://beagleboard.org/)
+  - Youtube Learning: [https://www.youtube.com/@beagleorg](https://www.youtube.com/@beagleorg)
+- **Raspberry Pi (4 Model B, Zero)**:
+  - Official Website: [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
+  - Youtube Learning: [https://www.youtube.com/@raspberrypi](https://www.youtube.com/@raspberrypi)
 
