@@ -1,6 +1,6 @@
 # README
 
-## [Step 1: Reading Materials for Testing]([https://link-url-here.org](https://github.com/IEEE-UNIC-CASS-TESTING/ieee-unic-cass-testing.github.io/blob/main/READING.md))
+## [Step 1: Reading Materials for Testing]([https://link-url-here.org](https://github.com/IEEE-UNIC-CASS-TESTING/ieee-unic-cass-testing.github.io/blob/main/READING.md)
 ### Objective: Identify if there is to purchase test equipment
 ### Content
 - Types of Testing Equipment
